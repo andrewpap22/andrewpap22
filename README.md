@@ -3,7 +3,7 @@
 <!--<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />-->
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right">
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About <a href="https://andrewpap22.github.io/">Me!</a> </h3>
 
 - 🤔 &nbsp; Exploring new technologies, learning and trying to apply as much as possible!
 - 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications @ UoA.
@@ -43,20 +43,34 @@
 
 <a href="https://github.com/andrewpap22">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewpap22&theme=buefy&show_icons=true" />-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpap22&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpap22&layout=compact&theme=tokyonight" />
+  <img src="https://thumbs.gfycat.com/TediousConfusedBarbet-size_restricted.gif" height="180em" />
 </a>
 
 <br/>
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+ ### Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="40" height="30" />
 
-<p align="center">
-<a href="https://andrewpap22.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://andrewpap22.github.io/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/andreaspappas22/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrew%20(Andreas)%20Pappas-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/andrew.dpap/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-andrew.dpap-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:andrewpap1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andrewpap1997@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<div align="center">
+<a href="https://github.com/andrewpap22" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AndreasPappas22" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/andreaspappas22/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Andreas.FFc/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/andrew.dpap/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
+<br/>
 
 ⭐️ From [andrewpap22](https://github.com/andrewpap22)
