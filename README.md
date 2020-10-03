@@ -1,4 +1,8 @@
-## Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
+<img src="https://github.com/andrewpap22/andrewpap22/blob/main/hello-world.gif" align="center" style="width: 100%" height="300em" />
+</div> 
+
+<!--## Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
 <!--<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />-->
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right">
@@ -54,15 +58,18 @@
  ### Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="40" height="30" />
 
 <div align="center">
-<a href="https://github.com/andrewpap22" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/AndreasPappas22" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/andrewpap22" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/andreaspappas22/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://dev.to/andrewpap22" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
 <a href="https://www.facebook.com/Andreas.FFc/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
