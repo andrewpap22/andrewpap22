@@ -1,6 +1,7 @@
 ## Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<!--<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />-->
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -41,7 +42,7 @@
 <br/>
 
 <a href="https://github.com/andrewpap22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewpap22&theme=buefy&show_icons=true" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewpap22&theme=buefy&show_icons=true" />-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpap22&theme=buefy&layout=compact" />
 </a>
 
