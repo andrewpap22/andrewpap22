@@ -47,7 +47,7 @@
 
 <a href="https://github.com/andrewpap22">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewpap22&theme=buefy&show_icons=true" />-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpap22&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpap22&layout=compact&theme=gotham" />
   <img src="https://thumbs.gfycat.com/TediousConfusedBarbet-size_restricted.gif" height="180em" />
 </a>
 
