@@ -13,7 +13,7 @@
 - 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications @ UoA.
 - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. 
 - 🌱 &nbsp; Learning more about Cloud Computing, Deep Learning and Game Development (web based).
-- ✍️ &nbsp; Pursuing Blog Writing as hobbie/side hustle.
+- ✍️ &nbsp; Pursuing Game Development as hobbie/side hustle.
 - 🏋️‍♂️ &nbsp; Working out daily on lifting weights or cycling and doing lots of callisthenics.
 - 🏀 &nbsp; Basketball lover, going on 3v3 matches with close friends on weekends.
 - ♟️ &nbsp; Playing chess and solving riddles on spare time. 
