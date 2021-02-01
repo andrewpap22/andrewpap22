@@ -11,8 +11,8 @@
 
 - 🤔 &nbsp; Exploring new technologies, learning and trying to apply as much as possible!
 - 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications [@UoA](https://www.di.uoa.gr/en).
-- 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning.
-<!-- - 💼 &nbsp; Currently working as a software engineer (technical student program) [@CERN](https://home.cern/). -->
+<!-- - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. -->
+- 💼 &nbsp; Currently working as a Computer Software Engineer (Technical Student program) at EP Department, LHCb Experiment [@CERN](https://home.cern/).
 - 🌱 &nbsp; Learning more about Cloud Computing, Machine Learning, Digital Currency and Game Development (web based).
 - ✍️ &nbsp; Pursuing Game Development as hobbie/side hustle.
 - 🏋️‍♂️ &nbsp; Working out daily on lifting weights or cycling and doing lots of callisthenics.
