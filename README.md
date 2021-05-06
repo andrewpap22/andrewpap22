@@ -56,7 +56,7 @@
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
- ### Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="40" height="30" />
+ ## Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="45" height="35" />
 
 <div align="center">
 <a href="https://twitter.com/AndreasPappas22" target="_blank">
@@ -80,5 +80,9 @@
 </div> 
 
 <br/>
+
+<div align="center">
+ <a href="https://www.buymeacoffee.com/anpappas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee"  style="margin-bottom: 5px;"></a>
+</div>
 
 ⭐️ From [andrewpap22](https://github.com/andrewpap22)
