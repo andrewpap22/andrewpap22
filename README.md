@@ -82,7 +82,9 @@
 <br/>
 
 <div align="center">
- <a href="https://www.buymeacoffee.com/anpappas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee"  style="margin-bottom: 5px;"></a>
+ <a href="https://www.buymeacoffee.com/anpappas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee"  style="margin-bottom: 5px;"></a> <br/><br/>
+  <p><b>Or... a Dog?!</b></p> <br/>
+  <img src="https://github.com/andrewpap22/andrewpap22/blob/main/Screenshot%20from%202021-05-09%2004-57-20.png" height="400px" width="500px" />
 </div>
 
 ⭐️ From [andrewpap22](https://github.com/andrewpap22)
