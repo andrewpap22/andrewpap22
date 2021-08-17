@@ -55,6 +55,7 @@
 <br/>
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+![](https://komarev.com/ghpvc/?username=andrewpap22&color=blueviolet)
 
  ## Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="45" height="35" />
 
@@ -86,7 +87,5 @@
   <p><b>Or... a Dog?!</b></p> <br/>
   <img src="https://github.com/andrewpap22/andrewpap22/blob/main/Screenshot%20from%202021-05-09%2004-57-20.png" height="400px" width="500px" />
 </div>
-
-![](https://komarev.com/ghpvc/?username=andrewpap22&color=blueviolet)
 
 ⭐️ From [andrewpap22](https://github.com/andrewpap22)
