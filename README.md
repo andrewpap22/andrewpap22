@@ -52,7 +52,12 @@
 
 <br/>
 
+### 📚 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://andreaspappas.xyz/)
 
 <br/>
 
