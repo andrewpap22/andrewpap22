@@ -11,7 +11,7 @@
 <!-- - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. -->
 - 💼 &nbsp; Currently working as a [Reasearch Software Engineer](https://gitlab.cern.ch/anpappas) of the [LHCb Experiment](http://lhcb-public.web.cern.ch/) [@CERN](https://home.cern/).
 - 🌱 &nbsp; Learning more about Cloud Computing, Machine Learning, Digital Currency and Game Development (web based mostly).
-- ✍️ &nbsp; Pursuing Web Game Development as hobbie/side hustle.
+- ✍️ &nbsp; Writing on my personal [Blog Website](https://andreaspappas.xyz/), as well as to [dev.to](https://dev.to/andrewpap22) and on to [hashnode](https://andreaspappas.hashnode.dev/).
 - 🏋️‍♂️ &nbsp; Working out daily on lifting weights or cycling and doing lots of callisthenics.
 - 🏀 &nbsp; Basketball lover, going on 3v3, 5v5 matches with close friends on weekends.
 - ♟️ &nbsp; Playing chess and solving riddles on spare time. 
@@ -50,7 +50,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 
-<br/>
 
 ### 📚 Latest Blog Posts
 
@@ -60,6 +59,13 @@
 ➡️ [more blog posts...](https://andreaspappas.xyz/)
 
 <br/>
+
+<details>
+  <summary>:zap: My GitHub Activity</summary>
+
+  <!--START_SECTION:activity-->
+
+</details>
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 ![](https://komarev.com/ghpvc/?username=andrewpap22&color=blueviolet)
