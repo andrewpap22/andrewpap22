@@ -61,12 +61,18 @@
 
 ➡️ [more blog posts...](https://andreaspappas.xyz/)
 
-<br/>
-
 <details>
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Am I an early 🐦?</summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 </details>
 

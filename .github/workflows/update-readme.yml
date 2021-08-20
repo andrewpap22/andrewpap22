@@ -2,7 +2,7 @@ name: GitHub - Activity - Readme
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
 
 jobs:
