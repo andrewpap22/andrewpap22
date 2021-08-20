@@ -2,9 +2,6 @@
 <img src="https://github.com/andrewpap22/andrewpap22/blob/main/hello-world.gif" align="center" style="width: 100%" height="300em" />
 </div> 
 
-<!--## Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
-
-<!--<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />-->
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right">
 
 <h3> 👨🏻‍💻 &nbsp;About <a href="https://andrewpap22.github.io/">Me!</a> </h3>
@@ -12,11 +9,11 @@
 - 🤔 &nbsp; Exploring new technologies, learning and trying to apply as much as possible!
 - 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications [@UoA](https://www.di.uoa.gr/en).
 <!-- - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. -->
-- 💼 &nbsp; Currently working as a Computer Software Engineer (Technical Student program) at EP Department, LHCb Experiment [@CERN](https://home.cern/).
-- 🌱 &nbsp; Learning more about Cloud Computing, Machine Learning, Digital Currency and Game Development (web based).
-- ✍️ &nbsp; Pursuing Game Development as hobbie/side hustle.
+- 💼 &nbsp; Currently working as a [Reasearch Software Engineer](https://gitlab.cern.ch/anpappas) of the [LHCb Experiment](http://lhcb-public.web.cern.ch/) [@CERN](https://home.cern/).
+- 🌱 &nbsp; Learning more about Cloud Computing, Machine Learning, Digital Currency and Game Development (web based mostly).
+- ✍️ &nbsp; Pursuing Web Game Development as hobbie/side hustle.
 - 🏋️‍♂️ &nbsp; Working out daily on lifting weights or cycling and doing lots of callisthenics.
-- 🏀 &nbsp; Basketball lover, going on 3v3 matches with close friends on weekends.
+- 🏀 &nbsp; Basketball lover, going on 3v3, 5v5 matches with close friends on weekends.
 - ♟️ &nbsp; Playing chess and solving riddles on spare time. 
 - 🎼 &nbsp; Classical music lover (and similar relaxing music genre overall)!
 
@@ -26,6 +23,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -33,24 +31,28 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![ThreeJS](https://img.shields.io/badge/-ThreeJS-333333?style=flat&logo=threedotjs)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![RMarkdown](https://img.shields.io/badge/-RMarkdown-333333?style=flat&logo=markdown&logoColor=red)
 - 🔧 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 
 <br/>
 
-<a href="https://github.com/andrewpap22">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewpap22&theme=buefy&show_icons=true" />-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpap22&layout=compact&theme=gotham" />
-  <img src="https://thumbs.gfycat.com/TediousConfusedBarbet-size_restricted.gif" height="180em" />
-</a>
+
 
 <br/>
 
