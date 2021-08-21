@@ -76,7 +76,7 @@
 
 ### 🎧 Now Playing
 
-[![Spotify](https://novatorem-andrewpap22.vercel.app/)](https://open.spotify.com/user/11131205361)
+[![Spotify](https://novatorem-andrewpap22.vercel.app/api/spotify)](https://open.spotify.com/user/11131205361)
 
 ## Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="45" height="35" />
 
