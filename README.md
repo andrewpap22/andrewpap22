@@ -72,13 +72,9 @@
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 
-
 </details>
 
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-![](https://komarev.com/ghpvc/?username=andrewpap22&color=blueviolet)
-
- ## Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="45" height="35" />
+## Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="45" height="35" />
 
 <div align="center">
 <a href="https://twitter.com/AndreasPappas22" target="_blank">
@@ -127,3 +123,6 @@
     ⭐️ From <a href="https://github.com/andrewpap22">Andreas Pappas</a>
   </p>
 </samp>
+
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+![](https://komarev.com/ghpvc/?username=andrewpap22&color=blueviolet)
