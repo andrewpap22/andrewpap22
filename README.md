@@ -74,6 +74,10 @@
 
 </details>
 
+### 🎧 Now Playing
+
+[![Spotify](https://novatorem-andrewpap22.vercel.app/)](https://open.spotify.com/user/11131205361)
+
 ## Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="45" height="35" />
 
 <div align="center">
@@ -105,7 +109,7 @@
      <br>
       <a href="https://www.buymeacoffee.com/anpappas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee"  style="margin-bottom: 5px;"></a>
   <br>
-  <p><b>Or... a Dog?!</b></p> <br/>
+  <p><b>Or... a Dog?!</b></p>
   
   🐶 DOGE Address: DR4PD82bMj299EpeY5Wi47Riqwt9qYWDzJ  [QR](https://drive.google.com/file/d/1RM9r2qe8C-eE7NyOrbgDvpmAgPdCSl_W/view)
 
