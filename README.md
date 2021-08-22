@@ -107,13 +107,13 @@
    <summary> <samp>&#9776; Donation?</samp></summary>
    <p align="center">
      <br>
-      <a href="https://www.buymeacoffee.com/anpappas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee"  style="margin-bottom: 5px;"></a>
+      <a href="https://www.buymeacoffee.com/anpappas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee"  style="margin-bottom: 5px;" width="150"></a>
   <br>
   <p><b>Or... a Dog?!</b></p>
   
   🐶 DOGE Address: DR4PD82bMj299EpeY5Wi47Riqwt9qYWDzJ  [QR](https://drive.google.com/file/d/1RM9r2qe8C-eE7NyOrbgDvpmAgPdCSl_W/view)
 
-  🪙 BTC Address: bc1q850djr3usqjrnu33ffv6y29ndrmerr0yp4z9v3  [QR](https://drive.google.com/file/d/117BDF6sNp7X5BY4rHS5FWCyuqkO_wyyv/view)
+  💰 BTC Address: bc1q850djr3usqjrnu33ffv6y29ndrmerr0yp4z9v3  [QR](https://drive.google.com/file/d/117BDF6sNp7X5BY4rHS5FWCyuqkO_wyyv/view)
 
   <a href="https://github.com/andrewpap22" target="_blank"><img alt="andrewpap22" src="https://badges.pufler.dev/visits/andrewpap22/andrewpap22?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
   <a href="https://github.com/andrewpap22/andrewpap22" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/andrewpap22/andrewpap22?label=profile%20updated&style=flat-square"></a>
