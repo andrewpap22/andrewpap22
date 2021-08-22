@@ -1,14 +1,17 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="500"/>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
+<img src="./this_page_is.gif"  width="500"/>
+<img src="./dino.gif" style="width: 100%" />
 </div> 
 
 <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right"> -->
 
 <img src="./dev-working.gif" alt="Coder GIF" width="500" height="400" align="right">
 
-<h3> 👨🏻‍💻 &nbsp;About <a href="https://andrewpap22.github.io/">Me!</a> </h3>
+<!-- <h3> 👨🏻‍💻 &nbsp;About <a href="https://andrewpap22.github.io/">Me!</a> </h3> -->
 
+<h3> Hi There! 👋 </h3>
+
+- 🧔 &nbsp; I'm Andreas Pappas from the beautiful city of Athens in Greece 🌊
 - 🤔 &nbsp; Exploring new technologies, seeking knowledge and trying to learn && teach.
 - 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications [@UoA](https://www.di.uoa.gr/en).
 <!-- - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. -->
