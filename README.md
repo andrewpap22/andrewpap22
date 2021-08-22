@@ -1,12 +1,15 @@
 <div align="center">
-<img src="https://github.com/andrewpap22/andrewpap22/blob/main/hello-world.gif" align="center" style="width: 100%" height="300em" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="500"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 </div> 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right">
+<!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right"> -->
+
+<img src="./dev-working.gif" alt="Coder GIF" width="500" height="400" align="right">
 
 <h3> 👨🏻‍💻 &nbsp;About <a href="https://andrewpap22.github.io/">Me!</a> </h3>
 
-- 🤔 &nbsp; Exploring new technologies, learning and trying to apply as much as possible!
+- 🤔 &nbsp; Exploring new technologies, seeking knowledge and trying to learn && teach.
 - 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications [@UoA](https://www.di.uoa.gr/en).
 <!-- - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. -->
 - 💼 &nbsp; Currently working as a [Reasearch Software Engineer](https://gitlab.cern.ch/anpappas) of the [LHCb Experiment](http://lhcb-public.web.cern.ch/) [@CERN](https://home.cern/).
