@@ -71,7 +71,7 @@
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/VaughnValle/elektropunk/issues/3) in [VaughnValle/elektropunk](https://github.com/VaughnValle/elektropunk)
+1. 💪 Opened PR [#359](https://github.com/HSF/phoenix/pull/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
 2. 🗣 Commented on [#3](https://github.com/VaughnValle/elektropunk/issues/3) in [VaughnValle/elektropunk](https://github.com/VaughnValle/elektropunk)
 3. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappas/issues/1) in [andrewpap22/andreaspappas](https://github.com/andrewpap22/andreaspappas)
 4. 🗣 Commented on [#877](https://github.com/pcottle/learnGitBranching/issues/877) in [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)
