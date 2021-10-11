@@ -72,9 +72,9 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#359](https://github.com/HSF/phoenix/issues/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
-2. 💪 Opened PR [#359](https://github.com/HSF/phoenix/pull/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
-3. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappas/issues/1) in [andrewpap22/andreaspappas](https://github.com/andrewpap22/andreaspappas)
-4. 🗣 Commented on [#877](https://github.com/pcottle/learnGitBranching/issues/877) in [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)
+2. 🗣 Commented on [#359](https://github.com/HSF/phoenix/issues/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
+3. 🗣 Commented on [#359](https://github.com/HSF/phoenix/issues/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
+4. 💪 Opened PR [#359](https://github.com/HSF/phoenix/pull/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
 5. ❗️ Opened issue [#877](https://github.com/pcottle/learnGitBranching/issues/877) in [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)
 6. ❗️ Closed issue [#1](https://github.com/andrewpap22/andreaspappas/issues/1) in [andrewpap22/andreaspappas](https://github.com/andrewpap22/andreaspappas)
 7. ❗️ Closed issue [#2](https://github.com/andrewpap22/andreaspappas/issues/2) in [andrewpap22/andreaspappas](https://github.com/andrewpap22/andreaspappas)
