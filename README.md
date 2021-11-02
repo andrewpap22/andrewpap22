@@ -109,13 +109,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +132,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2021
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
 
 </details>
