@@ -61,7 +61,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A 97.7% JavaScript Template Blog Website](https://dev.to/andrewpap22/a-97-7-javascript-template-blog-website-3onc)
-- [The #include <> preprocessor statement.](https://dev.to/andrewpap22/the-include-preprocessor-statement-10lh)
+- [The #include &lt;&gt; preprocessor statement.](https://dev.to/andrewpap22/the-include-preprocessor-statement-10lh)
 - [❗Install Artix Linux](https://dev.to/andrewpap22/install-artix-linux-43el)
 <!-- BLOG-POST-LIST:END -->
 
