@@ -92,7 +92,7 @@
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -109,14 +109,13 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+JSON                     19 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Neovim                   19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Linux                    19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -133,7 +132,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 
 </details>
