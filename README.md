@@ -92,7 +92,7 @@
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -132,7 +132,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 </details>
