@@ -72,8 +72,8 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#370](https://github.com/HSF/phoenix/issues/370) in [HSF/phoenix](https://github.com/HSF/phoenix)
-2. 💪 Opened PR [#370](https://github.com/HSF/phoenix/pull/370) in [HSF/phoenix](https://github.com/HSF/phoenix)
-3. 🗣 Commented on [#359](https://github.com/HSF/phoenix/issues/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
+2. 🗣 Commented on [#370](https://github.com/HSF/phoenix/issues/370) in [HSF/phoenix](https://github.com/HSF/phoenix)
+3. 💪 Opened PR [#370](https://github.com/HSF/phoenix/pull/370) in [HSF/phoenix](https://github.com/HSF/phoenix)
 4. 🗣 Commented on [#359](https://github.com/HSF/phoenix/issues/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
 5. 🗣 Commented on [#359](https://github.com/HSF/phoenix/issues/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
 6. 💪 Opened PR [#359](https://github.com/HSF/phoenix/pull/359) in [HSF/phoenix](https://github.com/HSF/phoenix)
