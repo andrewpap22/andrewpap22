@@ -141,7 +141,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 ### 🎧 Now Playing
 
-[![Spotify](https://novatorem-three-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/11131205361)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=01372b&border_color=000b0b)](https://open.spotify.com/user/11131205361)
 
 ## Connect With Me! <img src="https://github.com/andrewpap22/andrewpap22/blob/main/connected.gif" alt="connectedGif" width="45" height="35" />
 
