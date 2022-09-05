@@ -71,7 +71,7 @@
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#412](https://github.com/HSF/phoenix/issues/412) in [HSF/phoenix](https://github.com/HSF/phoenix)
+1. 🗣 Commented on [#9568](https://github.com/prisma/prisma/issues/9568) in [prisma/prisma](https://github.com/prisma/prisma)
 2. 💪 Opened PR [#412](https://github.com/HSF/phoenix/pull/412) in [HSF/phoenix](https://github.com/HSF/phoenix)
 3. ❗️ Opened issue [#411](https://github.com/HSF/phoenix/issues/411) in [HSF/phoenix](https://github.com/HSF/phoenix)
 4. 🗣 Commented on [#1](https://github.com/andrewpap22/root_cern-To_gltf-Exporter/issues/1) in [andrewpap22/root_cern-To_gltf-Exporter](https://github.com/andrewpap22/root_cern-To_gltf-Exporter)
