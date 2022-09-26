@@ -71,12 +71,12 @@
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-2. ❗️ Opened issue [#510](https://github.com/mickael-kerjean/filestash/issues/510) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-3. 🗣 Commented on [#9568](https://github.com/prisma/prisma/issues/9568) in [prisma/prisma](https://github.com/prisma/prisma)
-4. 🗣 Commented on [#1](https://github.com/andrewpap22/root_cern-To_gltf-Exporter/issues/1) in [andrewpap22/root_cern-To_gltf-Exporter](https://github.com/andrewpap22/root_cern-To_gltf-Exporter)
-5. 🗣 Commented on [#1](https://github.com/andrewpap22/root_cern-To_gltf-Exporter/issues/1) in [andrewpap22/root_cern-To_gltf-Exporter](https://github.com/andrewpap22/root_cern-To_gltf-Exporter)
-6. 🗣 Commented on [#370](https://github.com/HSF/phoenix/issues/370) in [HSF/phoenix](https://github.com/HSF/phoenix)
+1. 🎉 Merged PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
+2. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/issues/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
+3. 💪 Opened PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
+4. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+5. ❗️ Opened issue [#510](https://github.com/mickael-kerjean/filestash/issues/510) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+6. 🗣 Commented on [#9568](https://github.com/prisma/prisma/issues/9568) in [prisma/prisma](https://github.com/prisma/prisma)
 7. ❗️ Closed issue [#2](https://github.com/andrewpap22/andreaspappas/issues/2) in [andrewpap22/andreaspappas](https://github.com/andrewpap22/andreaspappas)
 8. 🗣 Commented on [#2](https://github.com/andrewpap22/andreaspappas/issues/2) in [andrewpap22/andreaspappas](https://github.com/andrewpap22/andreaspappas)
 9. ❗️ Opened issue [#22323](https://github.com/mrdoob/three.js/issues/22323) in [mrdoob/three.js](https://github.com/mrdoob/three.js)
