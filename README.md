@@ -15,15 +15,23 @@
 - 🤔 &nbsp; Exploring new technologies, seeking knowledge and trying to learn && teach.
 - 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications [@UoA](https://www.di.uoa.gr/en).
 <!-- - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. -->
-- 💼 &nbsp; Currently working as a [Reasearch Software Engineer](https://gitlab.cern.ch/anpappas) of the [LHCb Experiment](http://lhcb-public.web.cern.ch/) [@CERN](https://home.cern/).
-- 🌱 &nbsp; Learning more about Cloud Computing, Machine Learning, Digital Currency and Game Development (web based mostly).
+- 💼 &nbsp; Former 🧪 [Reasearch Software Engineer](https://indico.cern.ch/event/855454/contributions/4598428/) of the [LHCb Experiment](http://lhcb-public.web.cern.ch/) [@CERN](https://home.cern/).
+- 🌱 &nbsp; Learning more about Cloud Computing ☁️, Machine Learning 🤖, Digital Currency 🪙, Blockchain Technology, Web3 🌐, NFTs, DAOs.
 - ✍️ &nbsp; Writing on my personal [Blog Website](https://andreaspappas.xyz/), as well as to [dev.to](https://dev.to/andrewpap22) and on to [hashnode](https://andreaspappas.hashnode.dev/).
-- 🏋️‍♂️ &nbsp; Working out daily on lifting weights or cycling and doing lots of callisthenics.
+- 🏋️‍♂️ &nbsp; Working out daily on lifting weights or boxing 🥊 and doing lots of callisthenics.
 - 🏀 &nbsp; Basketball lover, going on 3v3, 5v5 matches with close friends on weekends.
 - ♟️ &nbsp; Playing chess and solving riddles on spare time. 
 - 🎼 &nbsp; Classical music lover (and similar relaxing music genre overall)!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+> Currently the stack I'm mostly utilizing is the [T3-Stack](https://github.com/t3-oss/create-t3-app) which consists of: 
+
+<div align=center>{ <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a> <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a> <a href="https://trpc.io/" title="tRPC"><img src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" alt="tRPC" width="21px" height="21px"></a> <a href="https://www.prisma.io/" title="Prisma"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="Prisma" width="21px" height="21px"></a> <a href="https://next-auth.js.org/" title="NextAuth.js"><img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth" width="21px" height="21px"></a> }</div>
+
+Combined with a dash 🧂 of {<a href="https://soliditylang.org/" title="Solidity"><img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="Solidity" width="21px" height="21px"></a>} when building Web3 apps! 
+
+In general though I've programmed a lot and I'm strongly experienced with the following tech as well: <br/>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -40,6 +48,7 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![ThreeJS](https://img.shields.io/badge/-ThreeJS-333333?style=flat&logo=threedotjs)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&color=red)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
