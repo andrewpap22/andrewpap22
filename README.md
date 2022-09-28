@@ -101,9 +101,38 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+🌆 Daytime    197 commits    ███████████░░░░░░░░░░░░░░   46.46% 
+🌃 Evening    129 commits    ███████░░░░░░░░░░░░░░░░░░   30.42% 
+🌙 Night      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               17 hrs 47 mins      ██████████████████░░░░░░░   73.9% 
+Solidity                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
+TypeScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
+Other                    48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
+Bash                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
+
+🔥 Editors: 
+VS Code                  24 hrs 4 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    24 hrs 4 mins       █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -118,7 +147,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2022 19:06:36 UTC
+ Last Updated on 28/09/2022 19:05:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
