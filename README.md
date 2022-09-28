@@ -13,7 +13,7 @@
 
 - 🧔 &nbsp; I'm Andreas Pappas from the beautiful city of Athens in Greece 🌊
 - 🤔 &nbsp; Exploring new technologies, seeking knowledge and trying to learn && teach.
-- 🎓 &nbsp; Studying Computer Science on department of Informatics & Telecommunications [@UoA](https://www.di.uoa.gr/en).
+- 🎓 &nbsp; Computer Science on department of Informatics & Telecommunications [@UoA](https://www.di.uoa.gr/en).
 <!-- - 💼 &nbsp; Currently seeking intern or junior positions on front, back, full stack web development or machine learning. -->
 - 💼 &nbsp; Former 🧪 [Reasearch Software Engineer](https://indico.cern.ch/event/855454/contributions/4598428/) of the [LHCb Experiment](http://lhcb-public.web.cern.ch/) [@CERN](https://home.cern/).
 - 🌱 &nbsp; Learning more about Cloud Computing ☁️, Machine Learning 🤖, Digital Currency 🪙, Blockchain Technology, Web3 🌐, NFTs, DAOs.
