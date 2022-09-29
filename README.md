@@ -101,7 +101,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -120,17 +120,17 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 hrs 47 mins      ██████████████████░░░░░░░   73.9% 
-Solidity                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
-TypeScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-Other                    48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
-Bash                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
+JavaScript               15 hrs 11 mins      ████████████████░░░░░░░░░   66.58% 
+TypeScript               3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
+Solidity                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
+HTML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
 
 🔥 Editors: 
-VS Code                  24 hrs 4 mins       █████████████████████████   100.0%
+VS Code                  22 hrs 49 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    24 hrs 4 mins       █████████████████████████   100.0%
+Linux                    22 hrs 49 mins      █████████████████████████   100.0%
 
 ```
 
@@ -147,7 +147,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2022 19:05:08 UTC
+ Last Updated on 29/09/2022 18:58:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
