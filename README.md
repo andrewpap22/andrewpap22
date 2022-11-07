@@ -80,13 +80,13 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-2. 🎉 Merged PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
-3. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/issues/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
-4. 💪 Opened PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
-5. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-6. ❗️ Opened issue [#510](https://github.com/mickael-kerjean/filestash/issues/510) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-7. 🗣 Commented on [#9568](https://github.com/prisma/prisma/issues/9568) in [prisma/prisma](https://github.com/prisma/prisma)
+1. 🗣 Commented on [#1554](https://github.com/filebrowser/filebrowser/issues/1554) in [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
+2. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+3. 🎉 Merged PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
+4. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/issues/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
+5. 💪 Opened PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
+6. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+7. ❗️ Opened issue [#510](https://github.com/mickael-kerjean/filestash/issues/510) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
 8. 🗣 Commented on [#2](https://github.com/andrewpap22/andreaspappas/issues/2) in [andrewpap22/andreaspappas](https://github.com/andrewpap22/andreaspappas)
 9. ❗️ Opened issue [#22323](https://github.com/mrdoob/three.js/issues/22323) in [mrdoob/three.js](https://github.com/mrdoob/three.js)
 10. 🗣 Commented on [#372](https://github.com/LukeSmithxyz/LARBS/issues/372) in [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS)
