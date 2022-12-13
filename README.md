@@ -105,6 +105,32 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
+🌆 Daytime    207 commits    ███████████░░░░░░░░░░░░░░   45.59% 
+🌃 Evening    139 commits    ███████░░░░░░░░░░░░░░░░░░   30.62% 
+🌙 Night      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        5 hrs 36 mins       █████████████████████████   99.77% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+
+🔥 Editors: 
+VS Code                  5 hrs 37 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    5 hrs 37 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -118,7 +144,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 18:45:54 UTC
+ Last Updated on 13/12/2022 18:44:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
