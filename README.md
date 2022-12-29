@@ -120,13 +120,13 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-C                        11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -143,7 +143,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2022 18:42:53 UTC
+ Last Updated on 29/12/2022 18:42:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
