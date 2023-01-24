@@ -120,17 +120,13 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-C                        59 mins             ██████████░░░░░░░░░░░░░░░   41.55% 
-Bash                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   26.37% 
-Text                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.79% 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -147,7 +143,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2023 18:41:24 UTC
+ Last Updated on 24/01/2023 18:42:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
