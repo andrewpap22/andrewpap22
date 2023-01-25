@@ -101,7 +101,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -120,13 +120,16 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     2 hrs 6 mins        ████████████████████░░░░░   81.46% 
+PHP                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 35 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +146,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2023 18:42:50 UTC
+ Last Updated on 25/01/2023 18:43:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
