@@ -101,9 +101,9 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.4%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -119,17 +119,17 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        █████████████░░░░░░░░░░░░   53.21 % 
-PHP                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-SQL                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.47 % 
+Bash                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+SQL                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+C                        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+PHP                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +145,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 18:39:51 UTC
+ Last Updated on 02/03/2023 18:43:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
