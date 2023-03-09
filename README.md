@@ -101,7 +101,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.4%20million%20lines%20of%20code-blue)
 
@@ -119,17 +119,16 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 5 mins       ██████████████████████░░░   87.01 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-C                        21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Makefile                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               16 hrs 1 min        ████████████████████████░   95.31 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +144,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2023 18:40:11 UTC
+ Last Updated on 09/03/2023 18:39:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
