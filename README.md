@@ -101,7 +101,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.1%20million%20lines%20of%20code-blue)
 
@@ -119,17 +119,17 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 23 mins        ███████████░░░░░░░░░░░░░░   43.74 % 
-HTML                     1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   40.31 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+HTML                     1 hr 16 mins        ███████████████░░░░░░░░░░   61.20 % 
+TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +145,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2023 18:34:15 UTC
+ Last Updated on 05/05/2023 18:34:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
