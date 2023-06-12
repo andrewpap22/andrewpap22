@@ -80,7 +80,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#245](https://github.com/motion-canvas/motion-canvas/pull/245) in [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+1. 💪 Opened PR [#29](https://github.com/t3dotgg/chirp/pull/29) in [t3dotgg/chirp](https://github.com/t3dotgg/chirp)
 2. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
 3. 🎉 Merged PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
 4. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/issues/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
