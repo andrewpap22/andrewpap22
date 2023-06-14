@@ -119,16 +119,13 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 45 mins       ██████████████████████░░░   88.22 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +141,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2023 18:34:30 UTC
+ Last Updated on 14/06/2023 18:34:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
