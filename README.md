@@ -101,32 +101,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-🌆 Daytime                1151 commits        ███████████████░░░░░░░░░░   61.72 % 
-🌃 Evening                483 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-🌙 Night                  147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -141,7 +116,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:35:47 UTC
+ Last Updated on 06/12/2023 18:36:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
