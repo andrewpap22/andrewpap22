@@ -103,15 +103,15 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.8%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-🌆 Daytime                796 commits         ██████████████░░░░░░░░░░░   57.68 % 
-🌃 Evening                424 commits         ████████░░░░░░░░░░░░░░░░░   30.72 % 
-🌙 Night                  94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+🌞 Morning                66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+🌆 Daytime                787 commits         ██████████████░░░░░░░░░░░   57.49 % 
+🌃 Evening                422 commits         ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌙 Night                  94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 
 
@@ -141,7 +141,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2024 18:35:17 UTC
+ Last Updated on 14/05/2024 18:36:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
