@@ -80,7 +80,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/ykdojo/kaguya/pull/15) in [ykdojo/kaguya](https://github.com/ykdojo/kaguya)
+1. 🗣 Commented on [#1048](https://github.com/aidenybai/million/issues/1048#issuecomment-2139479530) in [aidenybai/million](https://github.com/aidenybai/million)
 2. 💪 Opened PR [#29](https://github.com/t3dotgg/chirp/pull/29) in [t3dotgg/chirp](https://github.com/t3dotgg/chirp)
 3. 🎉 Merged PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
 4. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/issues/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
