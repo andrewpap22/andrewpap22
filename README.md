@@ -80,10 +80,10 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: My GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1361](https://github.com/shadcn-ui/ui/issues/1361#issuecomment-2158252771) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 🗣 Commented on [#1048](https://github.com/aidenybai/million/issues/1048#issuecomment-2139479530) in [aidenybai/million](https://github.com/aidenybai/million)
-3. 🎉 Merged PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
-4. 🗣 Commented on [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/issues/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
+1. 🗣 Commented on [#1191](https://github.com/crewAIInc/crewAI/issues/1191#issuecomment-2290988452) in [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+2. ❗ Opened issue [#1191](https://github.com/crewAIInc/crewAI/issues/1191) in [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+3. 🗣 Commented on [#1361](https://github.com/shadcn-ui/ui/issues/1361#issuecomment-2158252771) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🗣 Commented on [#1048](https://github.com/aidenybai/million/issues/1048#issuecomment-2139479530) in [aidenybai/million](https://github.com/aidenybai/million)
 5. 💪 Opened PR [#1](https://github.com/andrewpap22/andreaspappasxyz_guestbook/pull/1) in [andrewpap22/andreaspappasxyz_guestbook](https://github.com/andrewpap22/andreaspappasxyz_guestbook)
 6. 🗣 Commented on [#507](https://github.com/mickael-kerjean/filestash/issues/507) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
 7. ❗️ Opened issue [#510](https://github.com/mickael-kerjean/filestash/issues/510) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
