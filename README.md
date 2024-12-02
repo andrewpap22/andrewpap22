@@ -101,7 +101,32 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%203%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+🌆 Daytime                1022 commits        ███████████████░░░░░░░░░░   58.50 % 
+🌃 Evening                539 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
+🌙 Night                  117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -116,7 +141,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 18:55:48 UTC
+ Last Updated on 02/12/2024 18:59:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
