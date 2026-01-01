@@ -103,7 +103,7 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.90%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -141,7 +141,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:50:48 UTC
+ Last Updated on 01/01/2026 18:52:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
