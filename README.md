@@ -101,17 +101,17 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <summary>:zap: Am I an early 🐦?</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.90%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-🌆 Daytime                1108 commits        ██████████████░░░░░░░░░░░   56.59 % 
-🌃 Evening                636 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+🌆 Daytime                1121 commits        ██████████████░░░░░░░░░░░   56.67 % 
+🌃 Evening                643 commits         ████████░░░░░░░░░░░░░░░░░   32.51 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 
@@ -141,7 +141,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:50:13 UTC
+ Last Updated on 05/01/2026 18:55:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
