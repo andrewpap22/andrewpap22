@@ -108,10 +108,10 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-🌆 Daytime                1121 commits        ██████████████░░░░░░░░░░░   56.53 % 
-🌃 Evening                648 commits         ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+🌆 Daytime                1121 commits        ██████████████░░░░░░░░░░░   56.39 % 
+🌃 Evening                652 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
+🌙 Night                  146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 
 
@@ -128,20 +128,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-JavaScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 02/03/2026 19:11:02 UTC
+ Last Updated on 03/03/2026 19:14:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
