@@ -103,15 +103,15 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.84%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-🌆 Daytime                1134 commits        ██████████████░░░░░░░░░░░   56.47 % 
-🌃 Evening                659 commits         ████████░░░░░░░░░░░░░░░░░   32.82 % 
-🌙 Night                  146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+🌆 Daytime                1147 commits        ██████████████░░░░░░░░░░░   56.50 % 
+🌃 Evening                665 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 
 
@@ -131,17 +131,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 26/03/2026 19:37:26 UTC
+ Last Updated on 27/03/2026 19:16:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
