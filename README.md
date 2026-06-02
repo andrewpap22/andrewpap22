@@ -105,29 +105,6 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.55%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-🌆 Daytime                1161 commits        ██████████████░░░░░░░░░░░   56.55 % 
-🌃 Evening                674 commits         ████████░░░░░░░░░░░░░░░░░   32.83 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -141,7 +118,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2026 21:48:44 UTC
+ Last Updated on 02/06/2026 21:29:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
