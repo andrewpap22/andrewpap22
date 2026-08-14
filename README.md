@@ -103,15 +103,15 @@ In general though I've programmed a lot and I'm strongly experienced with the fo
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.73%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-🌆 Daytime                1240 commits        ██████████████░░░░░░░░░░░   56.91 % 
-🌃 Evening                713 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+🌞 Morning                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+🌆 Daytime                1266 commits        ██████████████░░░░░░░░░░░   57.16 % 
+🌃 Evening                723 commits         ████████░░░░░░░░░░░░░░░░░   32.64 % 
+🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 
 
@@ -147,7 +147,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:34:53 UTC
+ Last Updated on 14/08/2026 19:27:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
